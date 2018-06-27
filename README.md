@@ -1,2 +1,2 @@
-must have any browser installed
+must have any browser installed and 
 any text editor
